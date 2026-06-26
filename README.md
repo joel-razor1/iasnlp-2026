@@ -5,7 +5,7 @@ The Jupyter Lab Notebooks and supporting documents needed to run the notebooks. 
 
 Kindly follow the instructions mentioned in the `speech_llm_predictions_london` notebook. (I ran this in A100 GPU as it will take around 52 GB of GPU RAM when the model loads)
 
-# Speech Prosody Evaluation using Qwen2-Audio
+# Speech Prosody Evaluation using Qwen2-Audio 7B
 Kindly follow the instructions mentioned in the `Prosody_Aware_Text_LLM_Gemma_ivie_london` notebook.
 
 # Plot charts
